@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965347170100",
+    "project_id": "khoz-fad39",
+    "storage_bucket": "khoz-fad39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965347170100:android:7f5e227e59d3abb770f761",
+        "android_client_info": {
+          "package_name": "com.example.project_name_amar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965347170100-c1m93u9ifgpvhb1v4uvaihrj36k5r48f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_j2Xt5MEY2pS4qfa_2w81xKm5ADYqOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965347170100-c1m93u9ifgpvhb1v4uvaihrj36k5r48f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
